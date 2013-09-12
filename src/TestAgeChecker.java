@@ -13,6 +13,8 @@ public class TestAgeChecker {
 	 * Finally, delete these instructions, 
 	 * then commit and push the LiquorStore 
 	 * project to GitHub.
+	 * 
+	 * Test push Sept 12
 	 ---------------------------------*/
 
 }
